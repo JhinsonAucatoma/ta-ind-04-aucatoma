@@ -25,8 +25,7 @@
 
 Los datos de las Secciones 3 y 4 del informe provienen directamente de ese commit.
 Los datos de la Sección 6 (mediciones a distinto volumen) fueron generados de forma
-individual mediante el script `datos/volumen_t3.py`, ejecutado sobre Google Colab.
-
+individual mediante el script `volumen_t3.py`, ejecutado sobre Google Colab.
 ## Estructura del repositorio
 
 - `README.md`
